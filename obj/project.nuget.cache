@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XvHLemD7c9o8nqP77Y6L2ZgO/iiI2o0wCMe/WW90h/fayxhQX3OfiiYEBCj8/j4LV+pc80/Oj9LdtRBKKTohHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\onyek\\cubicle\\SimpleConsoleCalculator\\SimpleConsoleCalculator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\onyek\\.nuget\\packages\\mathparser.org-mxparser\\5.2.1\\mathparser.org-mxparser.5.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

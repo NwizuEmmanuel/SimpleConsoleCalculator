@@ -1,0 +1,17 @@
+C:\Users\onyek\cubicle\SimpleConsoleCalculator\bin\Debug\net8.0\SimpleConsoleCalculator.exe
+C:\Users\onyek\cubicle\SimpleConsoleCalculator\bin\Debug\net8.0\SimpleConsoleCalculator.deps.json
+C:\Users\onyek\cubicle\SimpleConsoleCalculator\bin\Debug\net8.0\SimpleConsoleCalculator.runtimeconfig.json
+C:\Users\onyek\cubicle\SimpleConsoleCalculator\bin\Debug\net8.0\SimpleConsoleCalculator.dll
+C:\Users\onyek\cubicle\SimpleConsoleCalculator\bin\Debug\net8.0\SimpleConsoleCalculator.pdb
+C:\Users\onyek\cubicle\SimpleConsoleCalculator\bin\Debug\net8.0\MathParser.org-mXparser.dll
+C:\Users\onyek\cubicle\SimpleConsoleCalculator\obj\Debug\net8.0\SimpleConsoleCalculator.csproj.AssemblyReference.cache
+C:\Users\onyek\cubicle\SimpleConsoleCalculator\obj\Debug\net8.0\SimpleConsoleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onyek\cubicle\SimpleConsoleCalculator\obj\Debug\net8.0\SimpleConsoleCalculator.AssemblyInfoInputs.cache
+C:\Users\onyek\cubicle\SimpleConsoleCalculator\obj\Debug\net8.0\SimpleConsoleCalculator.AssemblyInfo.cs
+C:\Users\onyek\cubicle\SimpleConsoleCalculator\obj\Debug\net8.0\SimpleConsoleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\onyek\cubicle\SimpleConsoleCalculator\obj\Debug\net8.0\SimpleConsoleCalculator.csproj.CopyComplete
+C:\Users\onyek\cubicle\SimpleConsoleCalculator\obj\Debug\net8.0\SimpleConsoleCalculator.dll
+C:\Users\onyek\cubicle\SimpleConsoleCalculator\obj\Debug\net8.0\refint\SimpleConsoleCalculator.dll
+C:\Users\onyek\cubicle\SimpleConsoleCalculator\obj\Debug\net8.0\SimpleConsoleCalculator.pdb
+C:\Users\onyek\cubicle\SimpleConsoleCalculator\obj\Debug\net8.0\SimpleConsoleCalculator.genruntimeconfig.cache
+C:\Users\onyek\cubicle\SimpleConsoleCalculator\obj\Debug\net8.0\ref\SimpleConsoleCalculator.dll
